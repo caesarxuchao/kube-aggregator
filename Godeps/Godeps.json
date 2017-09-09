@@ -371,6 +371,10 @@
       "Rev": "7ddbeae9ae08c6a06a59597f0c9edbc5ff2444ce"
     },
     {
+      "ImportPath": "golang.org/x/sys/windows",
+      "Rev": "7ddbeae9ae08c6a06a59597f0c9edbc5ff2444ce"
+    },
+    {
       "ImportPath": "golang.org/x/text/cases",
       "Rev": "b19bf474d317b857955b12035d2c5acb57ce8b01"
     },
@@ -519,7 +523,7 @@
       "Rev": "759634b1d0f5828d151bc415233413112b931ba3"
     },
     {
-      "ImportPath": "k8s.io/api/autoscaling/v2alpha1",
+      "ImportPath": "k8s.io/api/autoscaling/v2beta1",
       "Rev": "759634b1d0f5828d151bc415233413112b931ba3"
     },
     {
@@ -1135,7 +1139,7 @@
       "Rev": "a65a4c3071022fb71cb1830b6f2420c687cc8571"
     },
     {
-      "ImportPath": "k8s.io/client-go/informers/autoscaling/v2alpha1",
+      "ImportPath": "k8s.io/client-go/informers/autoscaling/v2beta1",
       "Rev": "a65a4c3071022fb71cb1830b6f2420c687cc8571"
     },
     {
@@ -1283,7 +1287,7 @@
       "Rev": "a65a4c3071022fb71cb1830b6f2420c687cc8571"
     },
     {
-      "ImportPath": "k8s.io/client-go/kubernetes/typed/autoscaling/v2alpha1",
+      "ImportPath": "k8s.io/client-go/kubernetes/typed/autoscaling/v2beta1",
       "Rev": "a65a4c3071022fb71cb1830b6f2420c687cc8571"
     },
     {
@@ -1363,7 +1367,7 @@
       "Rev": "a65a4c3071022fb71cb1830b6f2420c687cc8571"
     },
     {
-      "ImportPath": "k8s.io/client-go/listers/autoscaling/v2alpha1",
+      "ImportPath": "k8s.io/client-go/listers/autoscaling/v2beta1",
       "Rev": "a65a4c3071022fb71cb1830b6f2420c687cc8571"
     },
     {
